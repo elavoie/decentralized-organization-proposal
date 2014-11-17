@@ -7,7 +7,7 @@ By choosing a set of independent but related organizations that offer a wide-arr
 
 By choosing a set of representatives from the participants, whose role is to redistribute money amongst participants and non-participants, the protocol acts as a representative government redistribution mechanism, without the associated usual bureaucracy but retain the ability of participants to collectively quickly withdraw some representatives of the redistribution set if they fail to perform their role properly.
 
-By choosing the entire set of participants in its redistribution set, the protocol acts as an efficient global redistribution mechanism without any human intermediary. 
+By choosing the entire set of participants in its redistribution set, the protocol acts as a low-overhead global redistribution mechanism without any human intermediary. 
 
 In all cases, participation in the organization is entirely voluntary and should the organization under-perform compared to other alternatives, participants will stop transacting through it and it will effectively cease to exist. As such, the organization is therefore subject to a competitive pressure from other organizations operating in the same market and benefits from no special advantage. The combination of a low-overhead redistribution mechanism and a timely collective consensus mechanism has the potential to create nimble organizations that can integrate participants with a wide range of skills and common vision. 
 
