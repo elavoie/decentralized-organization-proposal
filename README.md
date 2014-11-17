@@ -32,6 +32,8 @@ Collective consensus on the redistribution set
 Collective consensus on the set of participants
 -----------------------------------------------
 - Selecting new participants ID
+- Joining the organization
+- Leaving the organization
 
 Resilience to various attack scenarios
 --------------------------------------
