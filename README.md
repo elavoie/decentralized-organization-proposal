@@ -5,7 +5,7 @@ This is a proposal for creating a decentralized organization that will automatic
 
 By choosing a set of independent but related organizations that offer a wide-array of complementary services to the wider population in its redistribution set, the protocol can compensate for the variability in the market potential of complementary activities that reinforce each others without one of the organizations having to act as a parent organization to route money around.
 
-By choosing a set of representatives from the participants, whose role is to redistribute money amongst participants and non-participants, the protocol acts as a representative government redistribution mechanism, without the associated usual bureaucracy and the ability of participants to collectively quickly withdraw some representatives of the redistribution set if they fail to perform their role properly.
+By choosing a set of representatives from the participants, whose role is to redistribute money amongst participants and non-participants, the protocol acts as a representative government redistribution mechanism, without the associated usual bureaucracy but retain the ability of participants to collectively quickly withdraw some representatives of the redistribution set if they fail to perform their role properly.
 
 By choosing the entire set of participants in its redistribution set, the protocol acts as an efficient global redistribution mechanism without any human intermediary. 
 
